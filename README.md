@@ -9,7 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img align ="right" alt="coding" width="400px" src="https://www.istockphoto.com/photo/laptop-with-a-blank-screen-on-a-white-background-gm1394988455-450258958?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Flaptop&utm_term=laptop%3A%3A%3A"
+
+
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
